@@ -30,7 +30,7 @@ int main(){
     // mp[2]=1;
     // mp[2]=1+1;
 
-
+   // hello sp
 
 
     for(int i=0;i<n;i++){
